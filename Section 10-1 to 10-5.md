@@ -1,4 +1,4 @@
-10-1 Extractign relations from text
+### 10-1 Extractign relations from text
 		1. relation extraction’s use
 			create new structured knowledged bases
 		2. Automated Content Extraction (ACE)
@@ -10,7 +10,7 @@
 			Supervised Learning
 			Using patterns
       
-	10-2 Using Patterns to Extraction Relations
+### 10-2 Using Patterns to Extraction Relations
 		1. Hearst’s Patterns for extracting relations
 			i.e: X and other Y
 		2.Some Richer Relations Using Rules
@@ -18,7 +18,7 @@
 		3.Named entities are not enough for the relations
 			some relations are different between same entities
       
-	10-3 Supervised Relation Extraction
+### 10-3 Supervised Relation Extraction
 		1.Supervised Learing
 			1)choose relations
 			2)choose a set of named entities
@@ -31,7 +31,7 @@
 			M1, M2’s headwords,bigram, type, level(noun)
 			NP(noun phrase), VP, PP...
       
-	10-4 Semi-Supervised Relation Extraction
+### 10-4 Semi-Supervised Relation Extraction
 		1.relation bootstrapping(Hearst 1992)
 		seed
 		2.Snowball
@@ -42,5 +42,4 @@
 			2)For each tuple in big database <Elbert, Hubble>
 			3)Find sentences in large corpus
 			4)Extract frequent features (and later can be used by parsers)
-			
-      Tip:DBPedia
+>Tip:DBPedia
