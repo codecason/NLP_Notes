@@ -1,4 +1,4 @@
-### 10-1 Extractign relations from text
+### 10-1 Extracting relations from text
 		1. relation extraction’s use
 			create new structured knowledged bases
 		2. Automated Content Extraction (ACE)
