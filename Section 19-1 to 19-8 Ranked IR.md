@@ -1,4 +1,3 @@
-
 ### 19 Ranked IR
 ### 19-1 Introducing Ranked Retrieval
 > There are many information retrieval models, one of which is Boolean search

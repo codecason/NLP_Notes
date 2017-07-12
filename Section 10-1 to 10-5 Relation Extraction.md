@@ -1,3 +1,4 @@
+## Relation Extraction
 ### 10-1 Extracting relations from text
 		1. relation extraction’s use
 			create new structured knowledged bases
@@ -9,7 +10,7 @@
 		5.How to build extractors
 			Supervised Learning
 			Using patterns
-      
+
 ### 10-2 Using Patterns to Extraction Relations
 		1. Hearst’s Patterns for extracting relations
 			i.e: X and other Y
@@ -17,7 +18,7 @@
 			Pattern: ORG-LOC, PER-ORG, DRUG-DISEASE
 		3.Named entities are not enough for the relations
 			some relations are different between same entities
-      
+
 ### 10-3 Supervised Relation Extraction
 		1.Supervised Learing
 			1)choose relations
@@ -30,7 +31,7 @@
 			M1, M2 ‘s relation:
 			M1, M2’s headwords,bigram, type, level(noun)
 			NP(noun phrase), VP, PP...
-      
+
 ### 10-4 Semi-Supervised Relation Extraction
 		1.relation bootstrapping(Hearst 1992)
 		seed

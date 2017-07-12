@@ -1,3 +1,4 @@
+## Advanced Maxent
 ### 11-1 The Maximum Entropy Model Presentation
 		Also named maxent.
 		The examples of entropy when two probabilities(ph and pt) change.

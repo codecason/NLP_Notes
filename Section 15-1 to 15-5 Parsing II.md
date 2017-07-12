@@ -1,4 +1,4 @@
-## 15 Parsing
+## 15 Stastical Parsing
 ### 15-1 CFG and PCFG
 >CFG:Context-Free Grammar
 >PCGG: Probabilistic Context Free Grammar
