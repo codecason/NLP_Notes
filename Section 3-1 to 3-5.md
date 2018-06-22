@@ -14,7 +14,10 @@
 		computing alignment	
 
 ### course 3-4
-    ![](img/3-4.png)
+<div align="center">
+
+![picture](img/3-4.png)
+</div>
 	weighted edit distance
 
 
